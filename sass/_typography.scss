@@ -5,6 +5,9 @@
 
 .heading-1 {
   @extend %heading; // copy the heading styles (css)
+  font-size: 4.1rem;
+  color: $color-grey-light-1;
+  line-height: 1;
 }
 
 .heading-2 {

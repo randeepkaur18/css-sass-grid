@@ -236,3 +236,7 @@ we have defined auto-filled the columns ( assuming 8) with width = 100px each.
 - **_auto-fit_**: auto-fit does is that it actually collapses these tracks and gives it a width of zero, creating then this extra space that we see here.
   So, it creates these tracks (8 columns), and then leaves the empty space,
   which we can then fill, if we want it.
+
+### Browser support
+
+_caniuse.com_ for checking the CSS Grid browser support

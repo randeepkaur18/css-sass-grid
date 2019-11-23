@@ -240,3 +240,7 @@ we have defined auto-filled the columns ( assuming 8) with width = 100px each.
 ### Browser support
 
 _caniuse.com_ for checking the CSS Grid browser support
+
+#### shorthand for _grid-template-colums_ and _grid-template-rows_
+
+grid-template: define rows / define columns
